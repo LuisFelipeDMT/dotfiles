@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = luisfelipe_trindade@hotmail.com
+	name = Luis Trindade
